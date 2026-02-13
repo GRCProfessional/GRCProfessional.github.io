@@ -7,16 +7,16 @@ Welcome to my GRC portfolio. I specialize in bridging the gap between technical 
 
 ## 📂 Projects
 
-###  [Qualitative Risk Assessment: SafePay Fintech Case Study](./safepay-case-study.md)
+###  [Qualitative Risk Assessment: Qckpay Fintech Case Study](./Qckpay-case-study.md)
 *Performed a comprehensive risk assessment for a startup, including risk scoring, policy development, and audit testing.*
 # GRCProfessional.github.io
-# Qualitative Risk Assessment & Policy Development: SafePay Fintech Case Study
+# Qualitative Risk Assessment & Policy Development: Qckpay Fintech Case Study
 
 ##  Project Objective
-To identify, analyze, and treat critical security risks for SafePay, a high-growth fintech startup, ensuring alignment with the **NIST CSF 2.0** framework and **PCI DSS** requirements.
+To identify, analyze, and treat critical security risks for Qckpay, a high-growth fintech startup, ensuring alignment with the **NIST CSF 2.0** framework and **PCI DSS** requirements.
 
 ##  The Scenario
-SafePay handles sensitive financial data and credit card transactions. As a GRC Analyst, I performed a risk assessment to address vulnerabilities in identity management and business continuity.
+Qckpay handles sensitive financial data and credit card transactions. As a GRC Analyst, I performed a risk assessment to address vulnerabilities in identity management and business continuity.
 
 ##  Risk Management Methodology
 I utilized a **Qualitative Risk Assessment** approach based on a 5x5 matrix to determine the priority of identified threats.
@@ -32,6 +32,7 @@ I utilized a **Qualitative Risk Assessment** approach based on a 5x5 matrix to d
 | **Inherent Likelihood** | 4 | High frequency of phishing/brute-force attacks in fintech. |
 | **Inherent Impact** | 5 | Potential for total loss of customer trust and heavy PCI DSS fines. |
 | **Inherent Risk Score** | **20 (Critical)** | Requires immediate mitigation. |
+
 ###  Risk Treatment & Residual Risk
 To mitigate the risk of credential theft, I implemented **MFA (Multi-Factor Authentication)** and established a **Password Complexity Standard**.
 
@@ -44,13 +45,13 @@ To mitigate the risk of credential theft, I implemented **MFA (Multi-Factor Auth
 
 ##  Governance: Password & Identity Standard
 **Policy Owner:** GRC Department  
-**Scope:** All employees, contractors, and third-party partners with access to SafePay systems.
+**Scope:** All employees, contractors, and third-party partners with access to Qckpay systems.
 
 ### Control Requirements
 1. **Length:** Minimum of 12 characters.
 2. **Complexity:** Must include a mix of uppercase, lowercase, numbers, and special symbols.
 3. **MFA:** Multi-Factor Authentication is mandatory for all system logins.
-4. **Prohibition:** Passwords must not contain easily guessable information (e.g., "SafePay2026").
+4. **Prohibition:** Passwords must not contain easily guessable information (e.g., "Qckpay2026").
 
 ##  Compliance & Audit Verification
 To ensure the Password Policy was effectively implemented, I conducted a **Test of Effectiveness (ToE)**.
